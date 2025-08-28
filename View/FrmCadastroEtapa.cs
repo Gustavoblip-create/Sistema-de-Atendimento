@@ -16,5 +16,30 @@ namespace SistemaAtendimento.View
         {
             InitializeComponent();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblDadosdaetapa_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rbInativo_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btAtivo_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblSituação_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace SistemaAtendimento
         {
             InitializeComponent();
         }
+
+        private void txtCodigo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
